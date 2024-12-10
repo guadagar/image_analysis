@@ -1,1 +1,1 @@
-A set of tools to analyze images. From histogram equalization in OpenCV to image classification in PyTorch.
+A set of tools to analyze images: histogram equalization in OpenCV, image classification in PyTorch, and more exercises from the DL-MBL course.
